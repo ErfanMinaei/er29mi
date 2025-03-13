@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Erfan
 
 
-**er29mi/er29mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ErfanMinaei/ErfanMinaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
